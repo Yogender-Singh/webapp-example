@@ -1,0 +1,8 @@
+.logout{
+    display: inline-block;
+    position: absolute;
+    left: 48%;
+    color: grey;
+    top: 20%;
+    text-decoration-line: underline;
+}
